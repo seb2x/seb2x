@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sebastian 👋
 
-<!--
-**seb2x/seb2x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student and practitioner documenting my technical journey, experiments, and projects as I learn and build across different areas of technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Networking & Infrastructure
+* Network topology designs, packet captures, and systems administration labs.
+* *(Labs coming soon)*
+
+---
+
+### 🛡️ Threat Intelligence & Security Operations
+* [Cyber Threat Intel Portfolio](https://github.com/seb2x/Cyber-Threat-Intel-Portfolio) – Analysis reports and threat intelligence writeups.
+
+---
+
+### 🐍 Software Engineering & Scripting
+* [Python Projects](https://github.com/seb2x/py-projects) – Custom tools, scripts, and software applications.
+
+---
+
