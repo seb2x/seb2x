@@ -15,7 +15,7 @@ Student and practitioner documenting my technical journey, experiments, and proj
 ---
 
 ### 🐍 Software Engineering & Scripting
-* [Python Projects](https://github.com/seb2x/py-projects) – Custom tools, scripts, and software applications.
+* [Python](https://github.com/seb2x/py-projects) – Custom tools, scripts, and software applications.
 
 ---
 
