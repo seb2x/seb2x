@@ -5,8 +5,7 @@ Student and practitioner documenting my technical journey, experiments, and proj
 ---
 
 ### 🌐 Networking & Infrastructure
-* Network topology designs, packet captures, and systems administration labs.
-* *(Labs coming soon)*
+* [Networking Portfolio](https://github.com/seb2x/networking-portfolio) – Central hub for hands-on networking labs, protocol captures, topology designs, and system setups.
 
 ---
 
