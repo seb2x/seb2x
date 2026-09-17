@@ -5,6 +5,7 @@ Student and practitioner documenting my technical journey, experiments, and proj
 ---
 
 ### 🌐 Networking & Infrastructure
+* [Network Security Architecture](https://github.com/seb2x/Network-Security-Architecture) – Enterprise network redesign featuring active/standby firewalls, DMZ isolation, and VLAN micro-segmentation.
 * [Networking Portfolio](https://github.com/seb2x/networking-portfolio) – Central hub for hands-on networking labs, protocol captures, topology designs, and system setups.
 
 ---
@@ -18,4 +19,3 @@ Student and practitioner documenting my technical journey, experiments, and proj
 * [Python](https://github.com/seb2x/py-projects) – Custom tools, scripts, and software applications.
 
 ---
-
