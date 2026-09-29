@@ -6,7 +6,12 @@ Student and practitioner documenting my technical journey, experiments, and proj
 
 ### 🌐 Networking & Infrastructure
 * [Network Security Architecture](https://github.com/seb2x/Network-Security-Architecture) – Enterprise network redesign featuring active/standby firewalls, DMZ isolation, and VLAN micro-segmentation.
-* [Networking](https://github.com/seb2x/networking) – Central hub for hands-on networking labs, protocol captures, topology designs, and system setups.
+* [Networking](https://github.com/seb2x/Networking) – Central hub for hands-on networking labs, protocol captures, topology designs, and system setups.
+
+---
+
+### ⚙️ IT Operations & Service Desk
+* [IT Service Desk Operations KB](https://github.com/seb2x/IT-ServiceDesk-Operations-KB) – Enterprise IT Knowledge Base containing SOPs for workstation provisioning, MDM fleet management, SLA escalation matrices, and procurement workflows.
 
 ---
 
